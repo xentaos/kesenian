@@ -1,2 +1,13 @@
-# kesenian
-[Kerangka] Kerangka Tim Kesenian Xenta OS Design &amp; Artwork .
+# Team
+**Leader**  
+ *  Dindin Hernawan <root@dev.xentaos.org>
+
+**Developer**  
+<!-- * Nama <E-Mail> -->
+ *  
+ *  
+ *  
+ *  
+ *  
+ *  
+ *  
