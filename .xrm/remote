@@ -14,6 +14,7 @@
 
 team=kesenian
 
+cd ..
 echo " Set Remote... "
 git remote set-url origin git@github.com:xentaos/$team.git
 echo " Berhasil... "
