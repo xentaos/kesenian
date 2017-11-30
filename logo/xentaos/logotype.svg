@@ -15,7 +15,9 @@
    id="svg4103"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="LOGOTYPE.svg">
+   sodipodi:docname="logotype.svg">
+  <title
+     id="title3227">Logotype</title>
   <defs
      id="defs4105">
     <inkscape:path-effect
@@ -1046,7 +1048,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Logotype</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Dindin Hernawan</dc:title>
@@ -1057,7 +1059,24 @@
             <dc:title>Xenta OS</dc:title>
           </cc:Agent>
         </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
