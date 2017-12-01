@@ -1,0 +1,7 @@
+Name,Template,Reference
+collection,font/collection,[RFC-ietf-justfont-toplevel-06]
+otf,font/otf,[RFC-ietf-justfont-toplevel-06]
+sfnt,font/sfnt,[RFC-ietf-justfont-toplevel-06]
+ttf,font/ttf,[RFC-ietf-justfont-toplevel-06]
+woff,font/woff,[RFC-ietf-justfont-toplevel-06]
+woff2,font/woff2,[RFC-ietf-justfont-toplevel-06]
