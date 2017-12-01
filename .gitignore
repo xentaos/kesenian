@@ -1,9 +1,2 @@
 # Hide Directory
-project/artwork/icons/desktop/xenta-x-icons/*.build
-project/artwork/icons/desktop/xenta-x-icons/*.dsc
-project/artwork/icons/desktop/xenta-x-icons/*.deb
-project/artwork/icons/desktop/xenta-x-icons/*.changes
-project/artwork/icons/desktop/xenta-x-icons/*.tar.xz
-project/artwork/icons/desktop/xenta-x-icons/xenta-x-icons/.git
-project/artwork/icons/desktop/xenta-x-icons/xenta-x-icons/.gitignore
 
