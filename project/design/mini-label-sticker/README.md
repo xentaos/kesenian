@@ -56,4 +56,5 @@ Verifikasikan Berkas, Terlihat Seperti dibawah ini :
 
 Notes: 
  * Berkas Source Masih Utuh dari Designer **Dindin Hernawan**.  
- * Jika Tidak Menampilkan **Good signature** Berkas Telah Rusak / Dirubah oleh yang bukan berasal dari Designer **Dindin Hernawan**. Pastikan Menggunakan Source yang Berasal dari Designer **Dindin Hernawan**.
+ * Tidak Menampilkan **Good signature** Berkas Rusak dan Telah Dirubah dari Kepemilikan Aslinya. (Designer **Dindin Hernawan**). 
+ * Pastikan Menggunakan Source yang Berasal dari Designer **Dindin Hernawan**.
