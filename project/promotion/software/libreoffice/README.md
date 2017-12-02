@@ -1,5 +1,6 @@
 ![alt text][logo]
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/promotion/software/libreoffice/promotion_software_barner_web_libreoffice_xenta_os_art.png "promotion_software_barner_web_libreoffice_xenta_os_art"
+
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/promotion/software/libreoffice/promotion_software_barner_web_libreoffice_xenta_os_art.png "promotion_software_barner_web_libreoffice_xenta_os_art"
 ## Designer
 Files: *.png  
 Copyright: 2017, **Dindin Hernawan**  
