@@ -42,16 +42,16 @@ The file has been approved and signed by
 ## Verify
 Verifikasikan Source Berkas, Terlihat Seperti dibawah ini :
 
->  Signature Berkas powered_by_xenta_os_art.svg...
-> gpg: Signature made Sun 03 Dec 2017 12:26:33 AM WIB using RSA key ID 959CDDD1
-> gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"
-> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"
-> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"
->  Signature Berkas powered_by_xenta_os.svg...
-> gpg: Signature made Sun 03 Dec 2017 12:26:33 AM WIB using RSA key ID 959CDDD1
-> gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"
-> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"
-> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"
+>  Signature Berkas powered_by_xenta_os_art.svg...  
+> gpg: Signature made Sun 03 Dec 2017 12:26:33 AM WIB using RSA key ID 959CDDD1  
+> gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"  
+> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"  
+> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"  
+>  Signature Berkas powered_by_xenta_os.svg...  
+> gpg: Signature made Sun 03 Dec 2017 12:26:33 AM WIB using RSA key ID 959CDDD1  
+> gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"  
+> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"  
+> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"  
 
 Notes: 
  * Berkas Source Masih Utuh dari Designer **Dindin Hernawan**.  
