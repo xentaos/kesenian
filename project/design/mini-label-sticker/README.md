@@ -41,8 +41,8 @@ The file has been approved and signed by
 
 
 ## Verify
-Verifikasikan Berkas Jika Terlihat Seperti dibawah Berkas Tersebut  
-Masih Asli Yang Berasal dari Designer Dindin Hernawan.  
+Verifikasikan Berkas, Terlihat Seperti dibawah ini :
+
 >  Signature Berkas powerd_by_xenta_os_art.svg...  
 > gpg: Signature made Sat 02 Dec 2017 11:30:22 PM WIB using RSA key ID 959CDDD1  
 > gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"  
@@ -53,3 +53,7 @@ Masih Asli Yang Berasal dari Designer Dindin Hernawan.
 > gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"  
 > gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"  
 > gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"  
+
+Notes: 
+ * Berkas Source Masih Utuh dari Designer **Dindin Hernawan**.  
+ * Jika Tidak Menampilkan **Good signature** Berkas Telah Rusak / Dirubah oleh yang bukan berasal dari Designer **Dindin Hernawan**. Pastikan Menggunakan Source yang Berasal dari Designer **Dindin Hernawan**.
