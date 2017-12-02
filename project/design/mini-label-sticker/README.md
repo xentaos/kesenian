@@ -1,26 +1,40 @@
-## Consep
-Sources: source/*  
+## Concept
+Concept: concept/*  
 Author: Ivan Rifki Nur Alif  
-Work: Close Source - The file is encrypted  
+Work: Close Source  
+The file has been encrypted by  
 > pub   1024R/959CDDD1 2017-07-27  
 >       Key fingerprint = 707E C01E AC3C 2F7F 8723  30CB 4EDB 0BF7 959C DDD1  
 > uid                  Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  
 > sub   1024R/B93D20D1 2017-07-27  
 
 ## Designer
-Files: *.svg  
+Files: *.png  
 Copyright: 2017, Dindin Hernawan  
 License: CC BY-SA 4.0  
-Work: Open Source - The file has been approved and signed by  
-> pub   1024R/959CDDD1 2017-07-27  
->       Key fingerprint = 707E C01E AC3C 2F7F 8723  30CB 4EDB 0BF7 959C DDD1  
-> uid                  Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  
-> sub   1024R/B93D20D1 2017-07-27  
 
 Creative Commons Attribution-ShareAlike 4.0 International License.
 
 You should have received a copy of the license along with this  
 work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
+
+## Source
+Files: source/*.svg  
+       *.png  
+Copyright: 2017, Dindin Hernawan  
+License: CC BY-SA 4.0  
+
+Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this  
+work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
+Work: Open Source  
+The file has been approved and signed by  
+> pub   1024R/959CDDD1 2017-07-27  
+>       Key fingerprint = 707E C01E AC3C 2F7F 8723  30CB 4EDB 0BF7 959C DDD1  
+> uid                  Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  
+> sub   1024R/B93D20D1 2017-07-27  
+
 
 ## Verify
 Verifikasikan Berkas Jika Terlihat Seperti dibawah Berkas Tersebut  
