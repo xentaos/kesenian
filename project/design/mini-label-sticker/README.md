@@ -24,6 +24,7 @@ work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
 
 ## Source
 Files: source/*.svg  
+Works with [Xenta OS](https://www.xentaos.org/) GNU/Linux system operation and created with [Inkscape](https://inkscape.org/) is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.  
 Copyright: 2017, Dindin Hernawan  
 License: CC BY-SA 4.0  
 
