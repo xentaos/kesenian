@@ -4,7 +4,7 @@
 [logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powerd_by_xenta_os_art.png "Logo Title Text 2"
 ## Concept
 Concept: concept/*  
-Author: Ivan Rifki Nur Alif  
+Author: **Ivan Rifki Nur Alif**  
 Work: Close Source  
 The file has been encrypted by  
 > pub   1024R/959CDDD1 2017-07-27  
@@ -14,7 +14,7 @@ The file has been encrypted by
 
 ## Designer
 Files: *.png  
-Copyright: 2017, Dindin Hernawan  
+Copyright: 2017, **Dindin Hernawan**  
 License: CC BY-SA 4.0  
 
 Creative Commons Attribution-ShareAlike 4.0 International License.
