@@ -1,4 +1,5 @@
 ![alt text][logo]
+
 [logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/promotion/software/libreoffice/promotion_software_barner_web_libreoffice_xenta_os_art.png "promotion_software_barner_web_libreoffice_xenta_os_art"
 ## Creator
 Name: **Dindin Hernawan**  
@@ -11,9 +12,7 @@ E-Mail: <root@dev.xentaos.org>
  * [Gimp](https://www.gimp.org/)  
 
 ## Source
-Work: **Open**  
-Files: /source/*.svg  
-_______/*.png  
+Source Project **Open** [Get Source](libreoffice/source).
 
 ## Copyright
 License: CC BY-SA 4.0  
