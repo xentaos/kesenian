@@ -12,6 +12,6 @@
 # GNU General Public License for more details.
 figlet verify.sh
 echo " Signature Berkas powerd_by_xenta_os_art.svg..."
-gpg --verify powerd_by_xenta_os_art.sig powerd_by_xenta_os_art.svg
+gpg --verify powered_by_xenta_os_art.sig powered_by_xenta_os_art.svg
 echo " Signature Berkas powerd_by_xenta_os.svg..."
-gpg --verify powerd_by_xenta_os.sig powerd_by_xenta_os.svg
+gpg --verify powered_by_xenta_os.sig powered_by_xenta_os.svg

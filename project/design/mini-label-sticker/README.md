@@ -1,7 +1,7 @@
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powerd_by_xenta_os.png "Logo Title Text 2"
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powerd_by_xenta_os_art.png "Logo Title Text 2"
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powered_by_xenta_os.png "Logo Title Text 2"
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powered_by_xenta_os_art.png "Logo Title Text 2"
 ## Concept
 Concept: concept/*  
 Author: **Ivan Rifki Nur Alif**  
@@ -43,16 +43,16 @@ The file has been approved and signed by
 ## Verify
 Verifikasikan Berkas, Terlihat Seperti dibawah ini :
 
->  Signature Berkas powerd_by_xenta_os_art.svg...  
-> gpg: Signature made Sat 02 Dec 2017 11:30:22 PM WIB using RSA key ID 959CDDD1  
-> gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"  
-> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"  
-> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"  
->  Signature Berkas powerd_by_xenta_os.svg...  
-> gpg: Signature made Sat 02 Dec 2017 11:30:22 PM WIB using RSA key ID 959CDDD1  
-> gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"  
-> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"  
-> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"  
+>  Signature Berkas powerd_by_xenta_os_art.svg...
+> gpg: Signature made Sun 03 Dec 2017 12:26:33 AM WIB using RSA key ID 959CDDD1
+> gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"
+> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"
+> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"
+>  Signature Berkas powerd_by_xenta_os.svg...
+> gpg: Signature made Sun 03 Dec 2017 12:26:33 AM WIB using RSA key ID 959CDDD1
+> gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"
+> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"
+> gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"
 
 Notes: 
  * Berkas Source Masih Utuh dari Designer **Dindin Hernawan**.  
