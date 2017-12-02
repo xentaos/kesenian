@@ -24,7 +24,6 @@ work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
 
 ## Source
 Files: source/*.svg  
-       *.png  
 Copyright: 2017, Dindin Hernawan  
 License: CC BY-SA 4.0  
 
