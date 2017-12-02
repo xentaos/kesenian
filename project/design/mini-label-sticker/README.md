@@ -1,7 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powered_by_xenta_os.png "Logo Title Text 2"
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powered_by_xenta_os_art.png "Logo Title Text 2"
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powered_by_xenta_os.png "powered_by_xenta_os"
 ## Concept
 Concept: concept/*  
 Author: **Ivan Rifki Nur Alif**  
@@ -24,7 +23,7 @@ work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
 
 ## Source
 Files: source/*.svg  
-Works with [Xenta OS](https://www.xentaos.org/) GNU/Linux system operation and created with [Inkscape](https://inkscape.org/) is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.  
+Works with [Xenta OS](https://www.xentaos.org/) GNU/Linux system operation and created with [Inkscape](https://inkscape.org/) is professional quality vector graphics software.  
 Copyright: 2017, Dindin Hernawan  
 License: CC BY-SA 4.0  
 
@@ -41,14 +40,14 @@ The file has been approved and signed by
 
 
 ## Verify
-Verifikasikan Berkas, Terlihat Seperti dibawah ini :
+Verifikasikan Source Berkas, Terlihat Seperti dibawah ini :
 
->  Signature Berkas powerd_by_xenta_os_art.svg...
+>  Signature Berkas powered_by_xenta_os_art.svg...
 > gpg: Signature made Sun 03 Dec 2017 12:26:33 AM WIB using RSA key ID 959CDDD1
 > gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"
 > gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"
 > gpg:                 aka "Dindin Hernawan (Xenta OS) <dindinhernawan@gmail.com>"
->  Signature Berkas powerd_by_xenta_os.svg...
+>  Signature Berkas powered_by_xenta_os.svg...
 > gpg: Signature made Sun 03 Dec 2017 12:26:33 AM WIB using RSA key ID 959CDDD1
 > gpg: Good signature from "Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>"
 > gpg:                 aka "Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>"
