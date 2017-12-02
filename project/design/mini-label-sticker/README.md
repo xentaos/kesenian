@@ -1,7 +1,7 @@
 ![alt text][logo]
 
 [logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powerd_by_xenta_os.png "Logo Title Text 2"
-
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powerd_by_xenta_os_art.png "Logo Title Text 2"
 ## Concept
 Concept: concept/*  
 Author: Ivan Rifki Nur Alif  
