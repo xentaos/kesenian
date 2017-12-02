@@ -1,3 +1,7 @@
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powerd_by_xenta_os.png "Logo Title Text 2"
+
 ## Concept
 Concept: concept/*  
 Author: Ivan Rifki Nur Alif  
@@ -27,7 +31,7 @@ License: CC BY-SA 4.0
 Creative Commons Attribution-ShareAlike 4.0 International License.
 
 You should have received a copy of the license along with this  
-work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
+work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.  
 Work: Open Source  
 The file has been approved and signed by  
 > pub   1024R/959CDDD1 2017-07-27  
