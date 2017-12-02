@@ -12,10 +12,10 @@ Files: *.svg
 Copyright: 2017, Dindin Hernawan  
 License: CC BY-SA 4.0  
 Work: Open Source - The file has been approved and signed by  
-pub   1024R/959CDDD1 2017-07-27  
-      Key fingerprint = 707E C01E AC3C 2F7F 8723  30CB 4EDB 0BF7 959C DDD1  
-uid                  Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  
-sub   1024R/B93D20D1 2017-07-27  
+> pub   1024R/959CDDD1 2017-07-27  
+>       Key fingerprint = 707E C01E AC3C 2F7F 8723  30CB 4EDB 0BF7 959C DDD1  
+> uid                  Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  
+> sub   1024R/B93D20D1 2017-07-27  
 
 Creative Commons Attribution-ShareAlike 4.0 International License.
 
