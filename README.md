@@ -17,11 +17,11 @@ Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
 
 ## Perkakas
 Perkakas Perangkat Lunak Free/Open Source Software Graphic Editor.
-**Required:**
+**Required:**  
  * [Gimp](https://www.gimp.org/)
  * [Inkscape](https://inkscape.org/)
  * [Blender](https://www.blender.org/)
 
-**Optional:**
+**Optional:**  
  * [Gravit](https://gravit.io/) 
  * [Krita](https://krita.org/en/)
