@@ -25,5 +25,4 @@ Free/Open Source Software Graphic Editor.
  * [Krita](https://krita.org/en/)  
 
 ## Notes
-> Wajib Memasang Perkakas Perangkat Lunak [Inkscape](https://inkscape.org/). 
-> Untuk Berkontribusi Memperbaiki/Modifikasi Source **Berkas .svg**.
+> Wajib Memasang Perkakas Perangkat Lunak [Inkscape](https://inkscape.org/) Berkontribusi Memperbaiki/Modifikasi Source **Berkas .svg**.
