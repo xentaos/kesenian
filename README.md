@@ -16,7 +16,7 @@ Team Kesenian.
 Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
 
 ## Perkakas
-Perkakas Perangkat Lunak dalam Berkontibusi di Tim Kesenian Xenta OS Developer.
+Perkakas Perangkat Lunak dalam Berkontibusi di Tim Kesenian.
 **Graphic Editor**
 Free/Open Source Software Graphic Editor.
  * [Gimp](https://www.gimp.org/)  
