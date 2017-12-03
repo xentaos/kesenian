@@ -8,10 +8,14 @@ Xenta OS Developer
 Facebook: [vanvreya](https://facebook.com/vanvreya)   
 E-Mail: <ivanrifki@dev.xentaos.org>  
 
-## Source
 Source Concept **Close** ~~Get Source~~.
 
 ## Creator
+Name: **Ivan Rifki Nur Alif**  
+Xenta OS Developer  
+Facebook: [vanvreya](https://facebook.com/vanvreya)   
+E-Mail: <ivanrifki@dev.xentaos.org>  
+
 Name: **Dindin Hernawan**  
 Xenta OS Developer  
 Facebook: [dindinG41TR3](https://facebook.com/dindinG41TR3)   
@@ -21,7 +25,6 @@ E-Mail: <root@dev.xentaos.org>
  * [Inkscape](https://inkscape.org/)  
  * [Gimp](https://www.gimp.org/)  
 
-## Source
 Source Project **Open** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/design/mini-label-sticker/source).
 
 ## Copyright
