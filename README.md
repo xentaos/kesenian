@@ -1,24 +1,11 @@
-# Team
-**Leader**  
-<!-- * Nama <E-Mail> -->
- *  Dindin Hernawan <root@dev.xentaos.org>
+# Kesenian
+Kerangka Project Tim Kesenian
+ *  Menyediakan Pustaka, Project dan Perkakas yang digunakan dalam Berkontribusi di Xenta OS.
 
-**Developer**  
-<!-- * Nama <E-Mail> -->
- *  
- *  
- *  
- *  
- *  
- *  
- *  
+## Team
+Team Kesenian [Disini](admin/TEAM.md)
+ * Informasi Team Kesenian Xenta OS Developer.
 
-**Contribution**  
-<!-- * Nama <E-Mail> -->
- *  
- *  
- *  
- *  
- *  
- *  
- *  
+## Rules
+Rules Team Kesenian [Disini](admin/RULES.md)
+ * Aturan dalam Team Kesenian Xenta OS Developer.

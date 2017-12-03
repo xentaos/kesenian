@@ -1,8 +1,22 @@
+# Founder
 Name: **Dindin Hernawan**  
-Founder & Xenta OS Developer Leader  
+Xenta OS Developer  
 Facebook: [dindinG41TR3](https://facebook.com/dindinG41TR3)   
 E-Mail: <root@dev.xentaos.org>  
----
+
+# Leader
+Name: **Dindin Hernawan**  
+Xenta OS Developer  
+Facebook: [dindinG41TR3](https://facebook.com/dindinG41TR3)   
+E-Mail: <root@dev.xentaos.org>  
+
+# Maintainer
+Name: **Dindin Hernawan**  
+Xenta OS Developer  
+Facebook: [dindinG41TR3](https://facebook.com/dindinG41TR3)   
+E-Mail: <root@dev.xentaos.org>  
+
+# Developer
 Name: **Andhika Parahita Putra**  
 Xenta OS Developer  
 Facebook: [GuaGantengCoy](https://facebook.com/GuaGantengCoy)   
