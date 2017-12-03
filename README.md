@@ -12,7 +12,7 @@ Progress Tim Kesenian.
 Kunjungi [Website Developer](http://dev.xentaos.org/progress.html)
 
 ## Team
-Team Kesenian Xenta OS Developer.
+Team Kesenian.  
 Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
 
 ## Perkakas
