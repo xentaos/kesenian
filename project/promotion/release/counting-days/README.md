@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/promotion/release/counting-days/promotion_release_counting_days_xenta_os_art.png "promotion_release_counting_days_xenta_os_art"
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/promotion/release/counting-days/source/promotion_release_counting_days_xenta_os_art.svg "promotion_release_counting_days_xenta_os_art"
 
 ## Concept
 Name: **Ivan Rifki Nur Alif**  
