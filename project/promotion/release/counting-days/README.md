@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/promotion/release/counting-days/HARI_INI.png "HARI_INI"
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/promotion/release/counting-days/promotion_release_counting_days_xenta_os_art.png "promotion_release_counting_days_xenta_os_art"
 
 ## Concept
 Name: **Ivan Rifki Nur Alif**  
@@ -16,7 +16,7 @@ Xenta OS Developer
 Facebook: [vanvreya](https://facebook.com/vanvreya)   
 E-Mail: <ivanrifki@dev.xentaos.org>  
 
-Source Project **Close** ~~Get Source~~ <!-- ](https://github.com/xentaos/kesenian/tree/master/project/promotion/release/counting-days/source/).-->
+Source Project **Limited** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/promotion/release/counting-days/source/).
 
 ## Copyright
 License: CC BY-SA 4.0  
