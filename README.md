@@ -25,3 +25,10 @@ Perkakas Perangkat Lunak Free/Open Source Software Graphic Editor.
 **Optional:**  
  * [Gravit](https://gravit.io/) 
  * [Krita](https://krita.org/en/)
+
+## Join
+Project Xenta OS Merupakan Project Terbuka Non-Profit.   
+Membuka Developer Siapa Saja Yang Ingin Bergabung dalam Project. 
+Silahkan Register Menjadi Developer Kunjungi [Website Developer](http://dev.xentaos.org/join.html).   
+Konfirmasikan Pendaftaran Ke Facebook [@Dindin Hernawan](https://facebook.com/dindinG41TR3).  
+---
