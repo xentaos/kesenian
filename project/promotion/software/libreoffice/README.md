@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/promotion/software/libreoffice/source/promotion_software_barner_web_libreoffice_xenta_os_art.svg "promotion_software_barner_web_libreoffice_xenta_os_art"
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/promotion/software/libreoffice/source/promotion_software_barner_web_libreoffice_xenta_os_art.png "promotion_software_barner_web_libreoffice_xenta_os_art"
 
 ## Concept
 Name: **Dindin Hernawan**  

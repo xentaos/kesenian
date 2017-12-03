@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/artwork/hero/source/hero_xenta_os_art.svg "hero_xenta_os_art"
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/artwork/hero/source/hero_xenta_os_art.png "hero_xenta_os_art"
 
 ## Concept
 Name: **Andhika Parahita Putra**  
