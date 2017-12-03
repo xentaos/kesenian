@@ -13,6 +13,7 @@
 repository=kesenian
 update="Update"
 figlet $repository
+cd ..
 echo "Set Remote $team..."
 git remote set-url origin git@github.com:xentaos/$repository.git
 echo "Berhasil..."
