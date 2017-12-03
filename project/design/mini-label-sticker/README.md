@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/powered_by_xenta_os.png "powered_by_xenta_os"
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/mini-label-sticker/design_mini_label_sticker_powered_by_xenta_os_art.png "design_mini_label_sticker_powered_by_xenta_os_art"
 
 ## Concept
 Name: **Ivan Rifki Nur Alif**  
