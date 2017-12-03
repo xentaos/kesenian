@@ -16,7 +16,7 @@ Team Kesenian.
 Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
 
 ## Perkakas
-Perkakas Perangkat Lunak Free/Open Source Software Graphic Editor.
+Perkakas Perangkat Lunak Free/Open Source Software Graphic Editor.  
 **Required:**  
  * [Gimp](https://www.gimp.org/)
  * [Inkscape](https://inkscape.org/)
