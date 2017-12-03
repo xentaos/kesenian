@@ -16,10 +16,12 @@ Team Kesenian.
 Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
 
 ## Perkakas
-Perkakas Perangkat Lunak dalam Berkontribusi di Tim Kesenian.
-**Graphic Editor**
-Free/Open Source Software Graphic Editor.
- * [Gimp](https://www.gimp.org/)  
- * [Gravit](https://gravit.io/)  
- * [Inkscape](https://inkscape.org/)  
- * [Krita](https://krita.org/en/)  
+Perkakas Perangkat Lunak Free/Open Source Software Graphic Editor.
+**Required:**
+ * [Gimp](https://www.gimp.org/)
+ * [Inkscape](https://inkscape.org/)
+ * [Blender](https://www.blender.org/)
+
+**Optional:**
+ * [Gravit](https://gravit.io/) 
+ * [Krita](https://krita.org/en/)
