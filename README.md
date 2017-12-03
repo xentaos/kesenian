@@ -1,7 +1,7 @@
-# Kesenian - Xenta OS Developer
-## Project
+# Kesenian
+## Mission
 Mission Tim Kesenian.  
-Kunjungi [Website Developer](http://dev.xentaos.org/project.html)
+Kunjungi [Website Developer](http://dev.xentaos.org/mission.html)
 
 ## Project
 Project Tim Kesenian.  
