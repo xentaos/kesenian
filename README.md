@@ -1,4 +1,8 @@
 # Kesenian
+**Xenta OS** merupakan Sebuah Distribusi (Distro) Sistem Operasi Bebas/Merdeka GNU/Linux Lokal Indonesia.  
+Didistribusikan oleh **X7 Project (X7P)** Sebuah Project Non-Profit.  
+Didirikan oleh Dindin Hernawan Bertujuan sebagai Wadah Berkomunitas Sesama Penggiat GNU/Linux & Kreatifitas Kesenian Digital.  
+
 ## Team
 Team Kesenian.  
 Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
@@ -25,10 +29,3 @@ Perkakas Perangkat Lunak Free/Open Source Software Graphic Editor.
 **Optional:**  
  * [Gravit](https://gravit.io/) 
  * [Krita](https://krita.org/en/)
-
-## Join
-Project Xenta OS Merupakan Project Terbuka Non-Profit.   
-Membuka Developer Siapa Saja Yang Ingin Bergabung dalam Project. 
-Silahkan Register Menjadi Developer Kunjungi [Website Developer](http://dev.xentaos.org/join.html).   
-Konfirmasikan Pendaftaran Ke Facebook [@Dindin Hernawan](https://facebook.com/dindinG41TR3).  
----
