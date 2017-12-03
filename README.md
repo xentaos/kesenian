@@ -1,6 +1,6 @@
 # Kesenian
-**Xenta OS** merupakan Sebuah Distribusi (Distro) Sistem Operasi Bebas/Merdeka GNU/Linux Lokal Indonesia.  
-Didistribusikan oleh **X7 Project (X7P)** Sebuah Project Non-Profit.  
+**Xenta OS** merupakan Sebuah Distribusi (Distro) Sistem Operasi Bebas/Merdeka GNU/Linux Lokal Indonesia.
+Didistribusikan oleh **X7 Project (X7P)** Sebuah Project Non-Profit.
 Didirikan oleh Dindin Hernawan Bertujuan sebagai Wadah Berkomunitas Sesama Penggiat GNU/Linux & Kreatifitas Kesenian Digital.  
 
 ## Team
