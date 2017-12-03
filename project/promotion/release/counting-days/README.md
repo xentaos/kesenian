@@ -1,6 +1,7 @@
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/tree/master/project/project/promotion/release/counting-days/HARI_INI.png "HARI_INI"
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/promotion/release/counting-days/HARI_INI.png "HARI_INI"
+ 
 ## Creator
 Name: **Ivan Rifki Nur Alif**  
 Xenta OS Developer  
