@@ -1,6 +1,6 @@
 # Kesenian
 Kerangka Project Tim Kesenian
- *  Menyediakan Pustaka, Project dan Perkakas yang digunakan dalam Berkontribusi di Xenta OS.
+ *  Menyediakan Pustaka, Project dan Perkakas yang digunakan dalam Berkontribusi.
 
 ## Team
 Team Kesenian [Disini](admin/TEAM.md)
