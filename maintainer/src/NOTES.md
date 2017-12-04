@@ -1,4 +1,4 @@
-**_**  
+**Mendesign _**  
 Project : **_**  
 Section : **_**  
 <!-- 
@@ -6,7 +6,7 @@ Section : **_**
     Project     /   Section
     ----------------------------------------------------------------------------------------------------------
     Artwork
-                /   hero  icons  themes  wallpaper
+                /   hero  icons  sticker themes  wallpaper
     Design
                 /   none
     Promotion
@@ -31,6 +31,9 @@ Optional
 + Flat Design
 + Other Style
 + Other Style
+
+**Library**
+Menggunakan Xenta OS [Hero](../tree/master/project/artwork/hero/)
 
 **Status**
 > [Selesai](../tree/master/project/_)
