@@ -1,31 +1,48 @@
 # Kesenian
-**Xenta OS** merupakan Sebuah Distribusi (Distro) Sistem Operasi Bebas/Merdeka GNU/Linux Lokal Indonesia.
-Didistribusikan oleh **X7 Project (X7P)** Sebuah Project Non-Profit.
-Didirikan oleh Dindin Hernawan Bertujuan sebagai Wadah Berkomunitas Sesama Penggiat GNU/Linux dan Kreatifitas Kesenian Digital.  
+Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik bergabung ? [Gabung disini](http://dev.xentaos.org/join.html).
 
-## Team
-Team Kesenian.  
-Kunjungi [Website Developer](http://dev.xentaos.org/team.html)
-
-## Mission
-Mission Tim Kesenian.  
-Kunjungi [Website Developer](http://dev.xentaos.org/mission.html)
-
-## Project
-Project Tim Kesenian.  
-Kunjungi [Website Developer](http://dev.xentaos.org/project.html)
-
-## Progress
-Progress Tim Kesenian.  
-Kunjungi [Website Developer](http://dev.xentaos.org/progress.html)
-
-## Perkakas
-Perkakas Perangkat Lunak Free/Open Source Software Graphic Editor.  
+Perangkat Lunak yang diperlukan dalam Berkontribusi:  
 **Required:**  
  * [Blender](https://www.blender.org/)
- * [Gimp](https://www.gimp.org/)
- * [Inkscape](https://inkscape.org/)
+Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
+> sudo apt-get install blender
+
+ * [Gimp](https://www.gimp.org/)  
+Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
+sudo apt-get install gimp
+
+ * [Inkscape](https://inkscape.org/)  
+Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
+sudo apt-get install inkscape
 
 **Optional:**  
- * [Gravit](https://gravit.io/) 
- * [Krita](https://krita.org/en/)
+ * [Gravit](https://gravit.io/)  
+Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
+sudo apt-get install gravit
+
+ * [Krita](https://krita.org/en/)  
+Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
+sudo apt-get install krita
+
+## Team
+Tim Kesenian. [Disini](http://dev.xentaos.org/team.html)
+
+## Mission
+Mission Tim Kesenian. [Disini](http://dev.xentaos.org/mission.html)
+
+## Project
+Project Tim Kesenian. [Disini](http://dev.xentaos.org/project.html)
+
+## Progress
+Progress Tim Kesenian. [Disini](http://dev.xentaos.org/progress.html)
+
+## Notes
+**Contribution**
+ * Dalam Berkontribusi Distro yang digunakan boleh bebas.
+ * Memasang Perangkat Lunak yang dibutuhkan.
+
+**Developer**
+ * Untuk menjadi Developer Xenta OS Persyaratan memasang Xenta OS*.
+ * Memasang Perangkat Lunak yang dibutuhkan.
+> ***Kebijakan:**  
+>  * Diijinkan menggunakan Distro selain Xenta OS dengan syarat memasang Xenta OS secara Virtual atau Dual Boot.
