@@ -11,7 +11,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 -->
-![Project][logo]
+![Art][logo]
 
 [logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/_art.png ""
 
