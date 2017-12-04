@@ -1,6 +1,6 @@
 ![Art][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/dvd-packaging-box/dvd-packaging-box_xenta_os_art.png ""
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/design/dvd-packaging-box/dvd_packaging_box_xenta_os_art.png ""
 
 ## Concept
 Name: **Ivan Rifki Nur Alif**  
