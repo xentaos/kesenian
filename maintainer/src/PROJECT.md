@@ -24,15 +24,18 @@ E-Mail: <_@dev.xentaos.org>
  * 
  * 
 
-Source Concept **Open** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/).
-Source Concept **Limited** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/).
-Source Concept **Close** ~~Get Source~~.
+Source Concept **Open** [Get Concept](https://github.com/xentaos/kesenian/tree/master/project/).
+Source Concept **Limited** [Get Concept](https://github.com/xentaos/kesenian/tree/master/project/).
+Source Concept **Close** ~~Get Concept~~.
 
 ## Creator
 Name: **_**  
 Xenta OS Developer  
 Facebook: [_](https://facebook.com/_)   
 E-Mail: <_@dev.xentaos.org>  
+<!--
+> Dibutuhkan Creator sebagai Converter SVG dari Berkas Concept.
+-->
 
 ## Perkakas
  * [Inkscape](https://inkscape.org/)  

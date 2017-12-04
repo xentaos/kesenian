@@ -7,14 +7,14 @@ Name: **Ivan Rifki Nur Alif**
 Xenta OS Developer  
 Facebook: [vanvreya](https://facebook.com/vanvreya)  
 E-Mail: <ivanrifki@dev.xentaos.org>  
- * packaging
- * box
- * inbox
- * outbox
- * cover
- * disk
+ * [packaging](concept/packaging.jpg)
+ * [box](concept/)
+ * [inbox](concept/inbox.jpg)
+ * [outbox](concept/outbox.jpg)
+ * [cover](concept/cover.jpg)
+ * [disk](concept/disk.png)
 
-Source Concept **Limited** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/design/dvd-packaging-box/concept).
+Source Concept **Limited** [Get Concept](https://github.com/xentaos/kesenian/tree/master/project/design/dvd-packaging-box/concept).
 
 ## Creator
 Name: **_**  
