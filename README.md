@@ -9,20 +9,20 @@ Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
 
  * [Gimp](https://www.gimp.org/)  
 Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
-sudo apt-get install gimp
+> sudo apt-get install gimp
 
  * [Inkscape](https://inkscape.org/)  
 Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
-sudo apt-get install inkscape
+> sudo apt-get install inkscape
 
 **Optional:**  
  * [Gravit](https://gravit.io/)  
 Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
-sudo apt-get install gravit
+> sudo apt-get install gravit
 
  * [Krita](https://krita.org/en/)  
 Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
-sudo apt-get install krita
+> sudo apt-get install krita
 
 ## Team
 Tim Kesenian. [Disini](http://dev.xentaos.org/team.html)
