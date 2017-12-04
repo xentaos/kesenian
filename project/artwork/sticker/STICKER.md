@@ -1,0 +1,15 @@
+# Sticker
+**Messages**
+ * NGODING DULU BRO!
+ * OK BRO
+ * WKWKWKWK
+ * RAPAT RAPAT RAPAT
+ * MANTAP!!!
+ * MAKASIH BRO
+ * SEMANGAT!!!!
+ * NITIP SENDAL
+ * NYIMAK GAN!
+
+**Emoticons:**
+ * EKPRESI KETAKUTAN
+ * SAKIT
