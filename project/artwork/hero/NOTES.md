@@ -6,7 +6,7 @@ Apa yang harus saya harus Kerjakan ?
 + Mendesign Design Sebuah Karakter Hero Xenta OS.
 + Project Kerjanya  di [Disini](../tree/master/project/artwork/hero)
 
-Memakai Style Design apa ?
+Memakai Style Design apa ?  
 **Required**
 + Xenta UI
 
