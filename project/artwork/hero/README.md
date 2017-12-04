@@ -1,4 +1,4 @@
-![alt text][logo]
+![Hero][logo]
 
 [logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/artwork/hero/source/hero_xenta_os_art.png "hero_xenta_os_art"
 
