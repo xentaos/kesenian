@@ -1,47 +1,26 @@
-<!--
-This file is part of Xenta OS Project Management.
-
-PROJECT.md is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
- 
-PROJECT.md is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
--->
 ![Art][logo]
 
-[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/_art.png ""
-
-## Concept
-Name: **_**  
-Xenta OS Developer  
-Facebook: [](https://facebook.com/_)   
-E-Mail: <_@dev.xentaos.org>  
- * 
- * 
- * 
-
-Source Concept **Open** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/).
-Source Concept **Limited** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/).
-Source Concept **Close** ~~Get Source~~.
+[logo]: https://raw.githubusercontent.com/xentaos/kesenian/master/project/artwork/sticker/sticker_xenta_os_art.png ""
 
 ## Creator
-Name: **_**  
+Name: **Dindin Hernawan**  
 Xenta OS Developer  
-Facebook: [_](https://facebook.com/_)   
-E-Mail: <_@dev.xentaos.org>  
+Facebook: [dindinG41TR3](https://facebook.com/dindinG41TR3)   
+E-Mail: <root@dev.xentaos.org>  
+**Messages**  
+ * WELLCOME
+ * MANTAP
+ * /OK
 
+<!--
+**Emoticons**  
+ * _
+-->
 ## Perkakas
  * [Inkscape](https://inkscape.org/)  
  * [Gimp](https://www.gimp.org/)  
- * [_](http://_)
 
-Source Project **Open** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/).
-Source Project **Limited** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/).
-Source Project **Close** ~~Get Source~~.
+Source Project **Open** [Get Source](https://github.com/xentaos/kesenian/tree/master/project/artwork/sticker/source/).
 
 ## Copyright
 License: CC BY-SA 4.0  
