@@ -10,7 +10,7 @@ E-Mail: <root@dev.xentaos.org>
 **Messages**  
  * WELLCOME
  * MANTAP
- * /OK
+ * OK
 
 <!--
 **Emoticons**  

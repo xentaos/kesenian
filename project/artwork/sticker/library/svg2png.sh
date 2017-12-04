@@ -13,7 +13,7 @@
 figlet svg2png
 SAVEIF=$IFS
 IFS=$(echo -en "\n\b")
-for file in $(ls _xenta_os_art*svg)
+for file in $(ls *svg)
 do
   name=${file%%.svg}
   # Silahkan Isi Tinggi dalam ukuran pixel di export berkas png
