@@ -20,4 +20,5 @@ cp src/_xenta_os_art.png $project/source/
 cp src/_xenta_os_art.svg $project/source/
 cp src/PROJECT.md $project/
 cp src/TEAM.md $project/
+cp src/NOTES.md $project/
 cp src/*.sh $project/source/
