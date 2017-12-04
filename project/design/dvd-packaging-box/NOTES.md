@@ -1,40 +1,24 @@
-**Mendesign _**  
-Project : **_**  
-Section : **_**  
-<!-- 
-    ----------------------------------------------------------------------------------------------------------
-    Project     /   Section
-    ----------------------------------------------------------------------------------------------------------
-    Artwork
-                /   hero  icons  sticker themes  wallpaper
-    Design
-                /   none
-    Promotion
-                /   kulgram  partner release  software
-    www
-                /   xentaos.org start.xentaos.org dev.xentaos.org wiki.xentaos.org forum.xentaos.org
-    ----------------------------------------------------------------------------------------------------------
--->
+**Mendesign DVD Packaging Box**  
+Project : **Design**  
+Section : **none**  
 
 Apa yang harus saya harus Kerjakan ?  
-+ Mendesign Design Sebuah _.
-+ Project Kerjanya  di [Disini](../tree/master/project/_)
++ Mendesign Design Sebuah Kemasan Packing DVD Installer Xenta OS.
++ Project Kerjanya  di [Disini](../tree/master/project/design/dvd-packaging-box)
 
 Memakai Style Design apa ?
 **Required**
 + Xenta UI
 + Flat Design
-+ Other Style
 
 Optional  
-+ Xenta UI
-+ Flat Design
-+ Other Style
 + Other Style
 
 **Library**
-Menggunakan Xenta OS [Hero](../tree/master/project/artwork/hero/)
+Menggunakan :  
+Xenta OS Logo [Disini](../tree/master/library/logo/xentaos/)  
+Xenta OS Screenshot [Disini](https://github.com/xentaos/perilisan/tree/master/screenshot)  
 
 **Status**
-> [Selesai](../tree/master/project/_)
-<!-- Kerjakan -->
+> [Kerjakan](../tree/master/project/design/dvd-packaging-box)
+<!-- Selesai -->
