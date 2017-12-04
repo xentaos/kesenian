@@ -6,7 +6,7 @@ Apa yang harus saya harus Kerjakan ?
 + Mendesign Design Sebuah Mini Label Sticker Xenta OS..
 + Project Kerjanya  di [Disini](../tree/master/project/design/mini-label-sticker)
 
-Memakai Style Design apa ?
+Memakai Style Design apa ?  
 **Required**
 + Xenta UI
 
