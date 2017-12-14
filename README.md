@@ -1,4 +1,8 @@
-# Kesenian
+# Kesenian 
+|**Team**|**Mission**|**Progress**|
+|:---:|:---:|:---:|
+|![Team](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/config-users.png)<br>Kunjungi halaman Xenta OS - Developer [Team](http://dev.xentaos.org/team.html)|![Mission](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-details.png)<br>Kunjungi halaman Xenta OS - Developer [Mission](http://dev.xentaos.org/mission.html)|![Progress](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-startup-programs.png)<br>Kunjungi halaman Xenta OS - Developer [Progress](http://dev.xentaos.org/progress.html)|
+
 Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia.  Tertarik bergabung ? [Gabung disini](http://dev.xentaos.org/join.html).
 
 Perangkat Lunak yang diperlukan dalam Berkontribusi:  
@@ -23,18 +27,6 @@ Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).
  * [Krita](https://krita.org/en/)  
 Pemasangan Perangkat Lunak melalui APT (Debian/Ubuntu/Linux Mint/Xenta OS).  
 > sudo apt-get install krita
-
-## Team
-Tim Kesenian. [Disini](http://dev.xentaos.org/team.html)
-
-## Mission
-Mission Tim Kesenian. [Disini](http://dev.xentaos.org/mission.html)
-
-## Project
-Project Tim Kesenian. [Disini](http://dev.xentaos.org/project.html)
-
-## Progress
-Progress Tim Kesenian. [Disini](http://dev.xentaos.org/progress.html)
 
 ## Notes
 **Contribution**
