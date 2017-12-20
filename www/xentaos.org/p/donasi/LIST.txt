@@ -1,0 +1,3 @@
+200x63_logo_bca.png
+200x63_logo_bitcoin.png
+200x63_logo_paypal.png
