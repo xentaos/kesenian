@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/assets/200x125_icon_donasi.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/assets/200x125_icon_partner.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/assets/200x125_icon_report.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/assets/200x125_icon_sponsor.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/assets/200x125_icon_feedback.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/assets/200x125_icon_project.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/assets/200x125_icon_review.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/assets/400x106_barner_xentaos-cinnamon-edisi.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/assets/400x106_barner_xentaos-xfce-edisi.png
