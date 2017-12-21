@@ -30,4 +30,5 @@ https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/25
 https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/289x100_yodha.web.id.png
 https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/320x80_heureuy_tech.png
 https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/320x111_edho_nur_blc_telkom.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/320x118_indomesa.blogspot.co.id.png
 
