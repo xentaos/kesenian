@@ -9,7 +9,6 @@ https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/23
 https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/232x83_gaptek.net.png
 https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/232x83_imcn.me.png
 https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/232x83_indomangga.web.id.png
-https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/232x83_indonesia_satu.png
 https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/232x83_indonesia_satu.png
 https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/232x83_kabarlinux.web.id.png
 https://raw.githubusercontent.com/xentaos/kesenian/master/library/logo/review/232x83_kampung_linux_jatisari.png
