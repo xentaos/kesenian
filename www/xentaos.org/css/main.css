@@ -1,0 +1,50 @@
+/*--------Awal baris Botton Download--------------*/
+.btn-download{color:#1F1F1F;background-color:#D4FF2A;border-color:#D4FF2A}
+.btn-download.focus,.btn-download:focus{color:#1F1F1F;background-color:#88AA00;border-color:#88AA00}
+.btn-download:hover{color:#1F1F1F;background-color:#88AA00;border-color:#88AA00}
+.btn-download.active,.btn-download:active,.open>.dropdown-toggle.btn-download{color:#1F1F1F;background-color:#88AA00;border-color:#88AA00}
+.btn-download.active.focus,.btn-download.active:focus,.btn-download.active:hover,.btn-download:active.focus,.btn-download:active:focus,.btn-download:active:hover,.open>.dropdown-toggle.btn-download.focus,.open>.dropdown-toggle.btn-download:focus,.open>.dropdown-toggle.btn-download:hover{color:#1F1F1F;background-color:#88AA00;border-color:#88AA00}
+.btn-download.active,.btn-download:active,.open>.dropdown-toggle.btn-download{background-image:none}
+.btn-download.disabled.focus,.btn-download.disabled:focus,.btn-download.disabled:hover,.btn-download[disabled].focus,.btn-download[disabled]:focus,.btn-download[disabled]:hover,fieldset[disabled] .btn-download.focus,fieldset[disabled] .btn-download:focus,fieldset[disabled] .btn-download:hover{background-color:#D4FF2A;border-color:#D4FF2A}
+.btn-download .badge{color:#D4FF2A;background-color:#1F1F1F}
+/*--------Akhir baris Botton Download--------------*/
+/*--------Awal baris Botton Review--------------*/
+.btn-review{color:#1F1F1F;background-color:#FFC843;border-color:#F7C241}
+.btn-review.focus,.btn-review:focus{color:#1F1F1F;background-color:#D49000;border-color:#D49000}
+.btn-review:hover{color:#1F1F1F;background-color:#D49000;border-color:#D38F00}
+.btn-review.active,.btn-review:active,.open>.dropdown-toggle.btn-review{color:#1F1F1F;background-color:#D49000;border-color:#D38F00}
+.btn-review.active.focus,.btn-review.active:focus,.btn-review.active:hover,.btn-review:active.focus,.btn-review:active:focus,.btn-review:active:hover,.open>.dropdown-toggle.btn-review.focus,.open>.dropdown-toggle.btn-review:focus,.open>.dropdown-toggle.btn-review:hover{color:#1F1F1F;background-color:#D38F00;border-color:#D49000}
+.btn-review.active,.btn-review:active,.open>.dropdown-toggle.btn-review{background-image:none}
+.btn-review.disabled.focus,.btn-review.disabled:focus,.btn-review.disabled:hover,.btn-review[disabled].focus,.btn-review[disabled]:focus,.btn-review[disabled]:hover,fieldset[disabled] .btn-review.focus,fieldset[disabled] .btn-review:focus,fieldset[disabled] .btn-review:hover{background-color:#FFC843;border-color:#F7C241}
+.btn-review .badge{color:#FFC843;background-color:#1F1F1F}
+/*--------Akhir baris Botton Review--------------*/
+/*--------Awal baris Botton Donasi--------------*/
+.btn-donasi{color:#1F1F1F;background-color:#FF2A7F;border-color:#FF2A7F}
+.btn-donasi.focus,.btn-donasi:focus{color:#1F1F1F;background-color:#D40055;border-color:#D40055}
+.btn-donasi:hover{color:#1F1F1F;background-color:#D40055;border-color:#D40055}
+.btn-donasi.active,.btn-donasi:active,.open>.dropdown-toggle.btn-donasi{color:#1F1F1F;background-color:#D40055;border-color:#D40055}
+.btn-donasi.active.focus,.btn-donasi.active:focus,.btn-donasi.active:hover,.btn-donasi:active.focus,.btn-donasi:active:focus,.btn-donasi:active:hover,.open>.dropdown-toggle.btn-donasi.focus,.open>.dropdown-toggle.btn-donasi:focus,.open>.dropdown-toggle.btn-donasi:hover{color:#1F1F1F;background-color:#D40055;border-color:#D40055}
+.btn-donasi.active,.btn-donasi:active,.open>.dropdown-toggle.btn-donasi{background-image:none}
+.btn-donasi.disabled.focus,.btn-donasi.disabled:focus,.btn-donasi.disabled:hover,.btn-donasi[disabled].focus,.btn-donasi[disabled]:focus,.btn-donasi[disabled]:hover,fieldset[disabled] .btn-donasi.focus,fieldset[disabled] .btn-donasi:focus,fieldset[disabled] .btn-donasi:hover{background-color:#FF2A7F;border-color:#FF2A7F}
+.btn-donasi .badge{color:#FF2A7F;background-color:#1F1F1F}
+/*--------Akhir baris Botton Donasi--------------*/
+/*--------Awal baris Botton Sponsor--------------*/
+.btn-sponsor{color:#1F1F1F;background-color:#00FF66;border-color:#00FF66}
+.btn-sponsor.focus,.btn-sponsor:focus{color:#1F1F1F;background-color:#00AA44;border-color:#00AA44}
+.btn-sponsor:hover{color:#1F1F1F;background-color:#00AA44;border-color:#00AA44}
+.btn-sponsor.active,.btn-sponsor:active,.open>.dropdown-toggle.btn-sponsor{color:#1F1F1F;background-color:#00AA44;border-color:#00AA44}
+.btn-sponsor.active.focus,.btn-sponsor.active:focus,.btn-sponsor.active:hover,.btn-sponsor:active.focus,.btn-sponsor:active:focus,.btn-sponsor:active:hover,.open>.dropdown-toggle.btn-sponsor.focus,.open>.dropdown-toggle.btn-sponsor:focus,.open>.dropdown-toggle.btn-sponsor:hover{color:#1F1F1F;background-color:#00AA44;border-color:#00AA44}
+.btn-sponsor.active,.btn-sponsor:active,.open>.dropdown-toggle.btn-sponsor{background-image:none}
+.btn-sponsor.disabled.focus,.btn-sponsor.disabled:focus,.btn-sponsor.disabled:hover,.btn-sponsor[disabled].focus,.btn-sponsor[disabled]:focus,.btn-sponsor[disabled]:hover,fieldset[disabled] .btn-sponsor.focus,fieldset[disabled] .btn-sponsor:focus,fieldset[disabled] .btn-sponsor:hover{background-color:#00FF66;border-color:#00FF66}
+.btn-sponsor .badge{color:#00FF66;background-color:#1F1F1F}
+/*--------Akhir baris Botton Sponsor--------------*/
+/*--------Awal baris Botton Partner--------------*/
+.btn-partner{color:#1F1F1F;background-color:#7F2AFF;border-color:#7F2AFF}
+.btn-partner.focus,.btn-partner:focus{color:#1F1F1F;background-color:#4400AA;border-color:#4400AA}
+.btn-partner:hover{color:#1F1F1F;background-color:#4400AA;border-color:#4400AA}
+.btn-partner.active,.btn-partner:active,.open>.dropdown-toggle.btn-partner{color:#1F1F1F;background-color:#4400AA;border-color:#4400AA}
+.btn-partner.active.focus,.btn-partner.active:focus,.btn-partner.active:hover,.btn-partner:active.focus,.btn-partner:active:focus,.btn-partner:active:hover,.open>.dropdown-toggle.btn-partner.focus,.open>.dropdown-toggle.btn-partner:focus,.open>.dropdown-toggle.btn-partner:hover{color:#1F1F1F;background-color:#4400AA;border-color:#4400AA}
+.btn-partner.active,.btn-partner:active,.open>.dropdown-toggle.btn-partner{background-image:none}
+.btn-partner.disabled.focus,.btn-partner.disabled:focus,.btn-partner.disabled:hover,.btn-partner[disabled].focus,.btn-partner[disabled]:focus,.btn-partner[disabled]:hover,fieldset[disabled] .btn-partner.focus,fieldset[disabled] .btn-partner:focus,fieldset[disabled] .btn-partner:hover{background-color:#7F2AFF;border-color:#7F2AFF}
+.btn-partner .badge{color:#7F2AFF;background-color:#1F1F1F}
+/*--------Akhir baris Botton Partner--------------*/
