@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/p/donasi/200x63_logo_bca.png
 https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/p/donasi/200x63_logo_bitcoin.png
 https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/p/donasi/200x63_logo_paypal.png
+https://raw.githubusercontent.com/xentaos/kesenian/master/www/xentaos.org/p/donasi/200x63_logo_doku.png

@@ -11,7 +11,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 repository=kesenian
-update="Update"
+update="Menambahkan Doku Donasi Logo"
 figlet $repository
 cd ..
 echo "Set Remote $team..."
