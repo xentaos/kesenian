@@ -5,8 +5,8 @@
 ## Creator
 Name: **Dindin Hernawan**  
 Xenta OS Developer  
-Facebook: [dindinG41TR3](https://facebook.com/dindinG41TR3)   
-E-Mail: <root@dev.xentaos.org>  
+Facebook: [dindinW101](https://facebook.com/dindinW101)  
+E-Mail: <dindinhernawan@yahoo.co.id>  
 **Messages**  
  * [WELLCOME](messages/wellcome.png)
  * [MANTAP](messages/mantap.png)
